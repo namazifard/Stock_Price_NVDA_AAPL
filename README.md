@@ -27,4 +27,4 @@ l -r requirements.txt
 
 ### Example Screenshots
 
-![Apple Closing Price](./Stock Price.png)
+![Apple Closing Price](Stock Price.png)
