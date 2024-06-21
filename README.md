@@ -14,27 +14,7 @@ This application utilizes the Yahoo Finance API (yfinance) to retrieve daily his
 - **Interactive Visualization**: Charts are interactive and responsive, allowing users to zoom in and out for detailed analysis.
 - **Multiple Stock Data**: Displays data for both Apple and NVIDIA, enabling comparison of stock performance.
 - **Dynamic Data Retrieval**: Data is dynamically fetched based on the specified date range.
-
-### Prerequisites
-
-- Python 3.x
-- Install required packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/namazifard/Simple_Stock_Price_App.git
-   cd Simple_Stock_Price_App
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+l -r requirements.txt
 
 ### Usage
 
@@ -47,6 +27,4 @@ This application utilizes the Yahoo Finance API (yfinance) to retrieve daily his
 
 ### Example Screenshots
 
-![Apple Closing Price](screenshots/apple_closing_price.png)
-
-![NVIDIA Volume](screenshots/nvidia_volume.png)
+![Apple Closing Price](Stock Price.png)
