@@ -3,6 +3,8 @@
 
 This Streamlit-based web application fetches and displays historical stock prices and volume data for Apple Inc. (AAPL) and NVIDIA Corporation (NVDA).
 
+Link: https://v8kwpirsfgeddwvruuvhjl.streamlit.app/
+
 ## Overview
 
 This application utilizes the Yahoo Finance API (yfinance) to retrieve daily historical stock data, specifically:
